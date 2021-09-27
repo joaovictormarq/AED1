@@ -4,19 +4,19 @@
 #include "hEx9.h"
 
 struct no {
-char nome[20];
-struct no * prox;
+    char nome[20];
+    struct no * prox;
 };
 
 Lista cria_lista() {
-return NULL;
+    return NULL;
 }
 
 int lista_vazia (Lista lst) {
-if (lst == NULL)
-return 1;
-else
-return 0;
+    if (lst == NULL)
+        return 1;
+    else
+        return 0;
 }
 
 int insere_final (Lista *lst, char name[]) {
