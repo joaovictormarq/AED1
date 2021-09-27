@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1600967561 source:d:\usuario\downloads\trabalho 1\soldado\ex9.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"hEx9.h"
+
+1573911351 d:\usuario\downloads\trabalho 1\soldado\hex9.h
+
+1573911381 source:d:\usuario\downloads\trabalho 1\soldado\main.c
+	<stdio.h>
+	<stdlib.h>
+	"hEx9.h"
+
